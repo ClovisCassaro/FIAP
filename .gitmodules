@@ -1,0 +1,4 @@
+[submodule "Aula5"]
+	path = Aula5
+	url = https://github.com/FIAP/dotnet-jwt.git
+	branch = main
