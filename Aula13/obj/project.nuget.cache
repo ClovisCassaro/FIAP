@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xf1CsO21BvE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\clovi\\source\\FIAP\\Aula13\\Aula13.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\clovi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\clovi\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\clovi\\.nuget\\packages\\polly\\8.6.3\\polly.8.6.3.nupkg.sha512",
+    "C:\\Users\\clovi\\.nuget\\packages\\polly.core\\8.6.3\\polly.core.8.6.3.nupkg.sha512",
+    "C:\\Users\\clovi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\clovi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\clovi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\clovi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}

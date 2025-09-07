@@ -1,0 +1,6 @@
+@Aula13_HostAddress = http://localhost:5123
+
+GET {{Aula13_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
